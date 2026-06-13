@@ -5,7 +5,7 @@
 
  1.Number : Floating point of numbers 🫱 Used for decimals and integers  (let age = 23);
 
- 2. String: Sequence of Characters 🫱 Used for tet       (let firstName ="penchal raju")
+ 2. String: Sequence of Characters 🫱 Used for text       (let firstName ="penchal raju")
 
  3. Boolean : Logical Type That can be only true or false 🫱 Used for taking decisions  (let fullAge =true)
 
